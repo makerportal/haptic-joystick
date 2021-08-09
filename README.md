@@ -7,7 +7,7 @@ See full tutorial here: [Haptic Feedback Joystick with Arduino](https://makerspo
 # 
 ### JUMP TO:
 <a href="#wiring">- Wiring Diagram</a><br>
-<a href="#arduino">- Arduino Codes</a><br>
+<a href="#arduino">- Arduino Code</a><br>
 
 The haptic-joystick library can be downloaded using git:
 
