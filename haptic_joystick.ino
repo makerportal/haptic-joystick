@@ -8,7 +8,7 @@
 * 
 ***************************************************************************/
 
-int joy_pins[4] = {35,34,17}; // pins being used for joystick
+int joy_pins[4] = {35,34,14}; // pins being used for joystick
 float bit_depth = pow(2.0,12); // ADC conversion ratio
 float Rx_offset = 0.0; // offset in x-dir
 float Ry_offset = 0.0; // offset in y-dir
