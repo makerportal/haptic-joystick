@@ -15,13 +15,13 @@ The haptic-joystick library can be downloaded using git:
 
 <a id="wiring"></a>
 # - Wiring Diagram -
-Here, we are wiring the analog joystick module and buzzer to GPIO pins on the ESP32 D1 Mini board:
+Here, we are wiring the analog joystick module and vibration motor to GPIO pins on the ESP32 D1 Mini board:
 
 ![Haptic Joystick + ESP32 wiring](/images/wiring_diagram.png)
 
 
 <a id="arduino"></a>
 # - Arduino Code -
-The Arduino code used to log GPS data is found at:
+The Arduino code used to control the vibration motor based on joystick movements is given at:
 
-- [gps_datalogger.ino](/arduino/gps_datalogger.ino)
+- [haptic_joystick.ino](haptic_joystick.ino)
