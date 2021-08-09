@@ -1,7 +1,7 @@
 # haptic-joystick
-Haptic joystick buzzer with Arduino - creating different buzz patterns for different joystick movements with ESP32 arduino board
+Haptic joystick buzzer with Arduino - creating different vibration patterns for different joystick movements with ESP32 arduino board.
 
-Get an Analog Joystick module here: [Analog Joystick Module](https://makersportal.com/shop/mini-gps-module-atgm336h-antenna) <br>
+Get a haptic joystick kit here: [Haptic Joystick Module](https://makersportal.com/shop/haptic-vibration-joystick-kit) <br>
 See full tutorial here: [Haptic Feedback Joystick with Arduino](https://makersportal.com/blog/haptic-feedback-joystick-with-arduino) <br>
 
 # 
