@@ -17,9 +17,8 @@ The haptic-joystick library can be downloaded using git:
 # - Wiring Diagram -
 Here, we are wiring the analog joystick module and buzzer to GPIO pins on the ESP32 D1 Mini board:
 
-![ATGM336H wiring to ATSAMD21](/images/atgm336h_datalogger_wiring.jpg)
+![Haptic Joystick + ESP32 wiring](/images/wiring_diagram.png)
 
-![ATGM336H wiring to ATSAMD21 - table](/images/atgm336h_datalogger_wiring_table.jpg)
 
 <a id="arduino"></a>
 # - Arduino Code -
