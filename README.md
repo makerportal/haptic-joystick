@@ -19,20 +19,6 @@ Here, we are wiring the analog joystick module and vibration motor to GPIO pins 
 
 ![Haptic Joystick + ESP32 wiring](/images/wiring_diagram.png)
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nqrr{background-color:#ffffff;border-color:#000000;color:#000000;font-size:large;text-align:center;vertical-align:top}
-.tg .tg-qblo{background-color:#326c88;border-color:#000000;color:#ffffff;font-size:large;font-weight:bold;text-align:center;
-  vertical-align:top}
-.tg .tg-g1p2{background-color:#efefef;border-color:#000000;color:#000000;font-size:large;text-align:center;vertical-align:top}
-.tg .tg-sr7s{background-color:#ffffff;border-color:#000000;color:#000000;font-size:large;font-weight:bold;text-align:center;
-  vertical-align:top}
-</style>
 <table class="tg" style="undefined;table-layout: fixed; width: 502px">
 <colgroup>
 <col style="width: 201px">
